@@ -1,0 +1,9 @@
+pandas
+pathlib
+plotly
+htmltools
+functools
+shiny
+shinyswatch
+faicons
+ipyleaflet
