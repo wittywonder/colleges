@@ -3,6 +3,7 @@ pathlib
 plotly
 htmltools
 shiny
+shinywidgets
 shinyswatch
 faicons
 ipyleaflet
